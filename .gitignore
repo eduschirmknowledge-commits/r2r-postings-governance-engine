@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+.venv*/
+venv/
+ENV/
+
+# Secrets & Keys (CRITICAL)
+.env
+*.env
+!.env.example
+
+# Local SQLite Database
+*.db
+*.sqlite3
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Large Datasets and Output Reports
+data_drop/
+*.xlsx
+
+# IDE Files
+.vscode/
+.idea/

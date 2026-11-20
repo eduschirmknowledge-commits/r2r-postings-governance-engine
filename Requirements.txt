@@ -1,0 +1,28 @@
+# Core framework
+langchain
+langchain-core
+langchain-community
+langgraph
+langsmith
+
+# LLM providers (keep the ones you'll use)
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-groq
+
+# SQL agent
+sqlalchemy
+pandas
+pymysql
+psycopg2-binary
+
+# CrewAI
+crewai
+crewai-tools
+
+# Utilities
+python-dotenv
+pydantic
+chromadb
+pypdf
